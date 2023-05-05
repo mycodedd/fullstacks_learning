@@ -1,1 +1,0 @@
-# eoi_fullstack
